@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I'm a plant mom who likes video games, photography, and drawing/painting!!
 
 <!---
-cierrak18/cierrak18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cierrak18/Bioinformatics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
