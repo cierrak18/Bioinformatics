@@ -1,7 +1,5 @@
 - 👋🏽 Hi, my name is Cierra.
-
 - 👀 I’m interested in genomics, bioinformatics, and data analysis.
-
 - 🌱 I’m currently learning about AI, machine learning, and data visualization.
 - 💞️ I’m always open to collaborating on creative or technical projects that involve data or biotech.
 - 📫 Reach me at ibritt.cierra@gmail.com
